@@ -26,8 +26,7 @@
       },
       "setup": {
         "title": "Fill the App key and secret of your account",
-        "description": "You need to ganarate new App key and secret from 'Account management/Account' OR follow 'https://developers.vtex.com/vtex-rest-api/docs/getting-started-authentication#creating-the-appkey-and-apptoken' Link",
-		"type": "string"
+        "description": "You need to ganarate new App key and secret from 'Account management/Account' OR follow 'https://developers.vtex.com/vtex-rest-api/docs/getting-started-authentication#creating-the-appkey-and-apptoken' Link"
       },
       "appKey": {
         "title": "Enter App Key",
