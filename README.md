@@ -1,1 +1,1 @@
-# kuick-live-shopping-app
+# Kuick: LIVE Shopping APP
