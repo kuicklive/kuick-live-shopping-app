@@ -19,10 +19,9 @@
     "title": "Kuick: LIVE Shopping APP",
     "type": "object",
     "properties": {
-      "storeDomain": {
-        "title": "Store Domain",
-        "description": "Enter current store domain like 'kuickcl'",
-        "type": "string"
+      "howToSetup": {
+        "title": "How to Setup",
+        "description": "Go to ( https://dev.kuick.live/streamer-sign-in ) Link and create an Account. Then click on the Connect to VTEX in the profile."
       }
     }
   },
