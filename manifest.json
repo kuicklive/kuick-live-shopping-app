@@ -15,17 +15,6 @@
       "*"
     ]
   },
-  "settingsSchema": {
-    "title": "KuickLIVEShoppingAPP",
-    "type": "object",
-    "properties": {
-      "howToSetup": {
-        "title": "How to Setup",
-        "type": "string",
-        "description": "Go to ( https://dev.kuick.live/streamer-sign-in ) Link and create an Account. Then click on the Connect to VTEX in profile section."
-      }
-    }
-  },
   "categories": [],
   "dependencies": {},
   "builders": {
