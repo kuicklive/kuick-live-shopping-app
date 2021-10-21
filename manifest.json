@@ -1,7 +1,7 @@
 {
   "name": "kuick-live-shopping-app",
   "vendor": "kuickcl",
-  "version": "11.0.7",
+  "version": "11.0.8",
   "title": "Kuick: LIVE Shopping APP",
   "description": "Kuick is a LIVE Selling e-Commerce Platform, an interactive experience, LIVE with an instant chat, which brings a great online shopping experience to your customers mobile phones, this is a great option for them to make purchases from the comfort of their home or wherever they are!",
   "billingOptions": {
@@ -14,17 +14,6 @@
     "availableCountries": [
       "*"
     ]
-  },
-  "settingsSchema": {
-    "title": "KuickLIVEShoppingAPP",
-    "type": "object",
-    "properties": {
-      "howToSetup": {
-        "title": "How to Setup",
-        "type": "string",
-        "description": "Go to ( https://dev.kuick.live/streamer-sign-in ) Link and create an Account. Then click on the Connect to VTEX in profile section."
-      }
-    }
   },
   "categories": [],
   "dependencies": {},
