@@ -1,26 +1,33 @@
-# Service Worker Example
+# Kuick: LIVE Shopping APP
 
-Service Workers (SWs) are a poweful tool to handle network requests separate from a web page, as scripts running in the background. They are well known to handle push notifications and background syncronization.
+Increase your Sales by LIVE Streaming & Selling inside Kuick
 
-With `service-worker` builder, we can allow an app to expose its own implementation of a Service Worker, enabling VTEX stores to use such Service Worker into their scope.
+Kuick is a LIVE Selling e-Commerce Platform, an interactive experience, LIVE with an instant chat, which brings a great online shopping experience to your customers mobile phones, this is a great option for them to make purchases from the comfort of their home or wherever they are!
 
-Service Workers allow us to introduce 6 different event handlers, which can be implemented inside the `service-workers/` folder:
+LIVE Shopping is not just the future, but the present! Kuick is one of the LIVE Shopping APPs available.
 
-1. [activate](https://developer.mozilla.org/en-US/docs/Web/API/ServiceWorkerGlobalScope/activate_event) → `activate.js`
-2. [fetch](https://developer.mozilla.org/en-US/docs/Web/API/ServiceWorkerGlobalScope/onfetch) → `fetch.js`
-3. [install](https://developer.mozilla.org/en-US/docs/Web/API/ServiceWorkerGlobalScope/install_event) → `install.js`
-4. [message](https://developer.mozilla.org/en-US/docs/Web/API/ServiceWorkerGlobalScope/message_event) → `message.js`
-5. [push](https://developer.mozilla.org/en-US/docs/Web/API/ServiceWorkerGlobalScope/push_event) → `push.js`
-6. [sync](https://developer.mozilla.org/en-US/docs/Web/API/ServiceWorkerGlobalScope/onsync) → `sync.js`
+# Your customers can do the following:
 
-Whatever is outside those 6 files, should be implemented in `header.js`. The implementation result in the VTEX store DevTools should be as follows:
+* View LIVE Streams from you
+* Discover NEW products that you offer
+* Buy your products directly on the LIVE Stream
+* Take advantage of promotions and / or discounts on your products
+* Ask questions LIVE and interact directly with your company
 
-![image](https://user-images.githubusercontent.com/21017429/114235943-84d14600-9946-11eb-8e1a-4a8f19d3d3d8.png)
+Live streaming shopping is similar to what you may see in televisions where a host will promote products & viewers can watch & buy it immediately, except there is a twist to it because users can shop directly during the LIVE Stream.
 
+Shopping inside Kuick is highly interactive. Users who tune in to shopping sessions can leave comments or ask questions. Your company can see comments as they arrive and address them during the LIVE broadcast. And when the Viewers are ready to purchase, they just click the shopping cart in the LIVE Stream and Buy.
 
-Each function can be tested according to the behavior of each event handler. When triggering such event handler, the function body will be executed as follows:
+Buying LIVE offers authenticity that Buyers crave. There’s no video editing or Photoshopping, so buyers can trust that they’re seeing exactly what they’ll get. They watch your company use, wear or test the products you are promoting. They get to see your company as real people telling real stories about real products, which motivates them to buy.
 
-![image](https://user-images.githubusercontent.com/21017429/114235975-8e5aae00-9946-11eb-91f8-b1d7f6d92485.png)
+# Features
 
+- Transform LiveStream Video into Real-Time results by Selling inside Kuick with a LIVE Chat and Gamification Features.
+- Easily list your VTEX products on Kuick. No more manual product uploads! And Product Details and Inventory synchronizes easily.
+- Automate Your Order Management Process between Kuick and your VTEX store.
+- Do Unlimited LIVE Shopping Events
+- Add as many products inside Kuick to Live Stream and Sell
 
-An example is provided in this app for exploration purposes.
+# Additional Information
+
+Free to Install. 15% Sales Commission paid to Kuick for each Sale generated (Already includes Payment Processing Fee). Any question, please email us at support@kuick.live
