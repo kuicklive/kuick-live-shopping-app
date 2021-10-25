@@ -6,7 +6,7 @@ Kuick is a LIVE Selling e-Commerce Platform, an interactive experience, LIVE wit
 
 LIVE Shopping is not just the future, but the present! Kuick is one of the LIVE Shopping APPs available.
 
-# Your customers can do the following:
+## Your customers can do the following:
 
 * View LIVE Streams from you
 * Discover NEW products that you offer
@@ -20,7 +20,7 @@ Shopping inside Kuick is highly interactive. Users who tune in to shopping sessi
 
 Buying LIVE offers authenticity that Buyers crave. There’s no video editing or Photoshopping, so buyers can trust that they’re seeing exactly what they’ll get. They watch your company use, wear or test the products you are promoting. They get to see your company as real people telling real stories about real products, which motivates them to buy.
 
-# Features
+## Features
 
 - Transform LiveStream Video into Real-Time results by Selling inside Kuick with a LIVE Chat and Gamification Features.
 - Easily list your VTEX products on Kuick. No more manual product uploads! And Product Details and Inventory synchronizes easily.
@@ -28,6 +28,6 @@ Buying LIVE offers authenticity that Buyers crave. There’s no video editing or
 - Do Unlimited LIVE Shopping Events
 - Add as many products inside Kuick to Live Stream and Sell
 
-# Additional Information
+## Additional Information
 
 Free to Install. 5.9% Sales Commission paid to Kuick for each sale generated (Already includes Payment Processing Fee). Note: This commission rate is only for 2021. Any questions, please email us at support@kuick.live
