@@ -30,4 +30,4 @@ Buying LIVE offers authenticity that Buyers crave. There’s no video editing or
 
 # Additional Information
 
-Free to Install. 15% Sales Commission paid to Kuick for each Sale generated (Already includes Payment Processing Fee). Any question, please email us at support@kuick.live
+Free to Install. 5.9% Sales Commission paid to Kuick for each sale generated (Already includes Payment Processing Fee). Note: This commission rate is only for 2021. Any questions, please email us at support@kuick.live

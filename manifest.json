@@ -16,7 +16,7 @@
     ]
   },
   "settingsSchema": {
-    "title": "KuickLIVEShoppingAPP",
+    "title": "Kuick: LIVE Shopping APP",
     "type": "object",
     "properties": {
       "howToSetup": {
